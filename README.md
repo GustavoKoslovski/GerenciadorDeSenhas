@@ -5,7 +5,7 @@ Bem-vindo ao repositório da API Gerador de Senhas, uma aplicação simples dese
 
 ## Recurso Principal
 
-### Geração de Senhas: A API permite aos usuários solicitar senhas fortes e aleatórias com diferentes comprimentos e níveis de complexidade.
+* Geração de Senhas: A API permite aos usuários solicitar senhas fortes e aleatórias com diferentes comprimentos e níveis de complexidade.
 
 ## Configuração do Ambiente de Desenvolvimento
 Antes de iniciar o desenvolvimento ou a execução da API, certifique-se de que o seguinte esteja instalado:
